@@ -1,0 +1,28 @@
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\bin\Debug\net6.0\appsettings.json
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\bin\Debug\net6.0\FirstApp for BE Task.exe
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\bin\Debug\net6.0\FirstApp for BE Task.deps.json
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\bin\Debug\net6.0\FirstApp for BE Task.runtimeconfig.json
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\bin\Debug\net6.0\FirstApp for BE Task.dll
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\bin\Debug\net6.0\FirstApp for BE Task.pdb
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.csproj.AssemblyReference.cache
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.AssemblyInfoInputs.cache
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.AssemblyInfo.cs
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.csproj.CoreCompileInputs.cache
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.RazorAssemblyInfo.cache
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.RazorAssemblyInfo.cs
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\staticwebassets\msbuild.FirstApp for BE Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstApp for BE Task.props
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstApp for BE Task.props
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstApp for BE Task.props
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\scopedcss\bundle\FirstApp for BE Task.styles.css
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.dll
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\refint\FirstApp for BE Task.dll
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.pdb
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\FirstApp for BE Task.genruntimeconfig.cache
+C:\Users\99470\Desktop\Code\Tasks in C#\Introdoction Tasks with diagrams\FirstApp for BE Task\obj\Debug\net6.0\ref\FirstApp for BE Task.dll
